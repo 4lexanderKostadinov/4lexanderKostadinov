@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer and Programmer
 ----------------------------------
 
-I've been learning to code for 3 years starting with C#. But in recent times I've decided to learn front-end development and create interactive websites.
+I've been learning to code for 2 years starting with C#. But in recent times I've decided to learn front-end development and create interactive websites.
 
 * 🌍  I'm based in Varna, BG
 * ✉️  You can contact me at [alexander.kostadinov06@gmail.com](mailto:alexander.kostadinov06@gmail.com)
