@@ -8,7 +8,7 @@ I've been learning to code for 2 years starting with C#. But in recent times I'v
 
 * 🌍  I'm based in Varna, BG
 * ✉️  You can contact me at [alexander.kostadinov06@gmail.com](mailto:alexander.kostadinov06@gmail.com)
-* 🚀  I'm currently working on [Print3D-Hub](http://https://4lexanderkostadinov.github.io/Print3D-Hub/)
+* 🚀  I'm currently working on [Print3D-Hub](https://github.com/4lexanderKostadinov/Print3D-Hub)
 * 🧠  I'm learning HTML5 & CSS3
 * 🤝  I'm open to collaborating on Website Projects
 
